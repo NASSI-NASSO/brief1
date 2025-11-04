@@ -1,0 +1,44 @@
+.navbar{
+  background: rgba(152, 218, 131, 0.7);
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  padding: 0px 50px;
+  
+}
+.ulnav{
+  display: flex;
+  gap:30px;
+  list-style: none;
+  
+}
+li a {
+   text-decoration:none;
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  transition: color 0.3s
+}
+
+body{
+  
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+.logo {
+  display: flex;
+  align-items:center;
+ gap: 20px;
+}
+
+.arrierPlan{
+  background-image: url(healthy-cuisine-idee-recette.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+  
+
+}
+
+  
