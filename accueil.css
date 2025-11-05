@@ -1,5 +1,5 @@
 .navbar{
-  background: rgba(152, 218, 131, 0.7);
+  background: rgb(133, 245, 215);
   display: flex;
   justify-content:space-between;
   align-items:center;
@@ -15,7 +15,7 @@
 }
 li a {
    text-decoration:none;
-  color: rgb(0, 0, 0);
+  color: black;
   font-weight: 500;
   transition: color 0.3s
 }
@@ -95,7 +95,15 @@ html{
  flex-direction: column;
 
 }
+footer {
+  padding: 20px;
+  background-color:  black;
+  width: 100%;
+  color: white;
 
+
+  
+      ;}
  
 
  
